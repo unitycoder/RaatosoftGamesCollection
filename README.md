@@ -1,0 +1,2 @@
+# RaatosoftGamesCollection
+allgames
